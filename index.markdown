@@ -7,3 +7,5 @@ title: Alex Smith Portfolio
 ---
 
 Hello, I am a game dev.
+
+![Alex Smith](/Assets/Me.png "Alex Smith")
