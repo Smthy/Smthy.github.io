@@ -24,9 +24,9 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #8a0808;
-  --secondary: #a75858;
-  --success: #f86a29;
+  --primary: #1abc9c;
+  --secondary: #2c3e50;
+  --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
@@ -6073,13 +6073,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #871a1a !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #964141 !important;
 }
 
 .bg-secondary {
@@ -6089,11 +6089,11 @@ button.bg-primary:focus {
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #1a252f !important;
+  background-color: #292929 !important;
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #ffca1c !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
@@ -6143,7 +6143,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #292929 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
